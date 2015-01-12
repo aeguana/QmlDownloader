@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomProgressBar.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="bg.jpg">colorful-triangles-background.jpg</file>
+    </qresource>
+</RCC>
